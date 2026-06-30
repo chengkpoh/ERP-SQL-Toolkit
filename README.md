@@ -45,6 +45,14 @@ This tool is designed to help with database inspection and troubleshooting.
 
 Please always test in a safe environment and make sure you have proper database backups before performing any operation.
 
+## Privacy
+
+ERP SQL Toolkit runs locally on your machine.
+
+Database connections are used only for inspection and troubleshooting purposes.
+
+No database information is uploaded externally.
+
 ## Download
 
 Check the Releases section for the latest Windows version.
