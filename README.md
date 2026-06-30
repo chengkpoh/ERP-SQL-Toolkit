@@ -53,6 +53,12 @@ Database connections are used only for inspection and troubleshooting purposes.
 
 No database information is uploaded externally.
 
+## Limitations
+
+This tool is built for practical troubleshooting scenarios.
+
+It does not replace advanced SQL profiling or professional database analysis tools.
+
 ## Download
 
 Check the Releases section for the latest Windows version.
