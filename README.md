@@ -28,11 +28,22 @@ ERP SQL Toolkit combines commonly used database inspection functions into one si
 ✅ Database Information Checking  
 ✅ ERP Troubleshooting Support
 
+## Demo Video
+
+Watch how ERP SQL Toolkit helps with database inspection.
+https://youtu.be/bFTCAHltCas
+
 ## Why I built this
 
 I created this tool to help technical teams save time during troubleshooting.
 
 It is not designed to replace professional database analysis, but to provide a practical way to quickly gather information when time matters.
+
+## Disclaimer
+
+This tool is designed to help with database inspection and troubleshooting.
+
+Please always test in a safe environment and make sure you have proper database backups before performing any operation.
 
 ## Download
 
@@ -47,7 +58,4 @@ If this tool helps your work, you can support my development:
 
 Thank you for supporting independent tool development.
 
-## Demo Video
 
-Watch how ERP SQL Toolkit helps with database inspection.
-https://youtu.be/bFTCAHltCas
