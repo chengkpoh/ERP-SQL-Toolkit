@@ -46,3 +46,8 @@ If this tool helps your work, you can support my development:
 ☕ Buy Me A Coffee
 
 Thank you for supporting independent tool development.
+
+## Demo Video
+
+Watch how ERP SQL Toolkit helps with database inspection.
+https://youtu.be/bFTCAHltCas
