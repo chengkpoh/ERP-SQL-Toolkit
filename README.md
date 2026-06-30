@@ -60,6 +60,7 @@ Check the Releases section for the latest Windows version.
 ## Support
 
 If ERP SQL Toolkit helps you save time, you can support my work:
+If you find this tool useful, consider giving the project a ⭐ on GitHub.
 
 ☕ Ko-fi: https://ko-fi.com/kapoc
 ☕ Buy Me A Coffee
